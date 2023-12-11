@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shahbaz Khan</h1>
-<h3 align="center">Dedicated Frontend Developer from India currently living in Germany</h3>
+<h3 align="center">Dedicated Frontend Developer from India 🇮🇳 currently living in Germany 🇩🇪</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shbaaaaz&label=Profile%20views&color=0e75b6&style=flat" alt="shbaaaaz" /> </p>
 

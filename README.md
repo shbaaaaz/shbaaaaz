@@ -1,15 +1,19 @@
 <h1 align="center">Hi 👋, I'm Shahbaz Khan</h1>
-<h3 align="center">A passionate frontend developer from India currently living in Germany</h3>
+<h3 align="center">Dedicated Frontend Developer from India currently living in Germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shbaaaaz&label=Profile%20views&color=0e75b6&style=flat" alt="shbaaaaz" /> </p>
 
-- 🌱 I’m currently learning **Express, Node.js**
+- 💻 I am committed to build user friendly, accessible and responsive applications.
+  
+- ⌨️ I love JavaScript. 
 
-- 👨‍💻 All of my projects are available at [https://www.shahbazkhan.in/](https://www.shahbazkhan.in/)
+- 🌐 Visit my portfolio website at [https://www.shahbazkhan.in/](https://www.shahbazkhan.in/).
 
-- 📝 I regularly write articles on [https://www.shahbazkhan.in/blog](https://www.shahbazkhan.in/blog)
+- 📝 I write articles on [https://www.shahbazkhan.in/blog](https://www.shahbazkhan.in/blog).
 
-- 💬 Ask me about **JavaScript, React, Frontend Development**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Frontend Development**
+
+- I’m currently learning **React Native**
 
 - 📫 How to reach me **info@shahbazkhan.in**
 

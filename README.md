@@ -3,9 +3,10 @@
 <div align="left"> <img src="https://komarev.com/ghpvc/?username=shbaaaaz&label=Profile%20views&color=0e75b6&style=flat" alt="shbaaaaz" /> </div>
 
 ## About Me
-I'm a passionate Frontend Engineer with over 5 years of experience in web development. Originally from India, I've migrated to Germany and I'm currently seeking new Frontend Developer opportunities in this vibrant tech landscape.
+I'm a passionate Frontend Engineer with over 5 years of experience in web development. 
+Originally from India, I have migrated to Germany and currently seeking new Frontend Developer opportunities in this vibrant tech landscape.
 
-Apart from coding, I find joy in teaching web development, sharing my experiences on LinkedIn, and exploring new places, capturing them through film.
+Apart from coding, I find joy in teaching web development, sharing my learnings, and exploring new places.
 
 ## Skills
 - **Frontend**: HTML5, CSS3, SASS, Tailwind, JavaScript, TypeScript, React, Redux, Jest, Next.js
@@ -16,12 +17,12 @@ Apart from coding, I find joy in teaching web development, sharing my experience
 ## What I Do
 - 🖥️ Building user-friendly and performant web applications.
 - 🌐 Embracing new technologies and methodologies to enhance development workflows.
-- 📝 Writing articles here - [Blogs](https://www.shahbazkhan.in/blog).
+- 📝 Writing articles here: [Blogs](https://www.shahbazkhan.in/blog).
 - 🎓 Sharing my knowledge and experience through teaching and social media.
 - 🌍 Exploring new places and capturing moments through film.
 
 ## Let's Connect!
-🌐 [Portfolio website](https://www.shahbazkhan.in/).
+🌐 [Portfolio website](https://www.shahbazkhan.in/)
 🔗 [LinkedIn](https://www.linkedin.com/in/shbaaaaz/)
 📧 info@shahbazkhan.in
 

@@ -1,41 +1,31 @@
-<h1 align="center">Hi 👋, I'm Shahbaz Khan</h1>
-<h3 align="center">Dedicated Frontend Developer from India currently living in Germany</h3>
+# Hello, I'm Shahbaz! 👋
 
 <div align="left"> <img src="https://komarev.com/ghpvc/?username=shbaaaaz&label=Profile%20views&color=0e75b6&style=flat" alt="shbaaaaz" /> </div>
 
-- 💻 I am committed to build user friendly, accessible and responsive applications.
-  
-- ⌨️ I love JavaScript. 
+## About Me
+I'm a passionate Frontend Engineer with over 5 years of experience in web development. Originally from India, I've migrated to Germany and I'm currently seeking new Frontend Developer opportunities in this vibrant tech landscape.
 
-- 🌐 Visit my portfolio website at [https://www.shahbazkhan.in/](https://www.shahbazkhan.in/).
+Apart from coding, I find joy in teaching web development, sharing my experiences on LinkedIn, and exploring new places, capturing them through film.
 
-- 📝 I write articles on [https://www.shahbazkhan.in/blog](https://www.shahbazkhan.in/blog).
-
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Frontend Development**
-
-- 📖 I’m currently learning **React Native**
-
-- 📫 How to reach me **info@shahbazkhan.in**
-
-<h3> Tools & Technologies</h3>
-
+## Skills
 - **Frontend**: HTML5, CSS3, SASS, Tailwind, JavaScript, TypeScript, React, Redux, Jest, Next.js
-
 - **Backend**: Node.js, Express, Firebase
-
 - **Databases**: MongoDB, SQL Server, MySQL
-
 - **Version Control**: Git, GitHub
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/shbaaaaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shbaaaaz" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shbaaaaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shbaaaaz" height="30" width="40" /></a>
-<a href="https://instagram.com/shbaaaaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shbaaaaz" height="30" width="40" /></a>
-</p>
+## What I Do
+- 🖥️ Building user-friendly and performant web applications.
+- 🌐 Embracing new technologies and methodologies to enhance development workflows.
+- 📝 Writing articles here - [Blogs](https://www.shahbazkhan.in/blog).
+- 🎓 Sharing my knowledge and experience through teaching and social media.
+- 🌍 Exploring new places and capturing moments through film.
 
+## Let's Connect!
+🌐 [Portfolio website](https://www.shahbazkhan.in/).
+🔗 [LinkedIn](https://www.linkedin.com/in/shbaaaaz/)
+📧 info@shahbazkhan.in
 
-
+Feel free to reach out for job opportunities, collaboration, or just to connect and chat about technology and web development! 
 
 
 <div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shbaaaaz&show_icons=true&locale=en&layout=compact" alt="shbaaaaz" /></div>

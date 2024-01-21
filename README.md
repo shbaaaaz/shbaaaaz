@@ -4,7 +4,7 @@
 
 ## About Me
 I'm a passionate Frontend Engineer with over 5 years of experience in web development. 
-Originally from India, I have migrated to Germany and currently seeking new Frontend Developer opportunities in this vibrant tech landscape.
+Originally from India, I have migrated to Germany to explore the vibrant tech landscape.
 
 Apart from coding, I find joy in teaching web development, sharing my learnings, and exploring new places.
 

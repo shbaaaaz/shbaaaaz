@@ -3,7 +3,7 @@
 <div align="left"> <img src="https://komarev.com/ghpvc/?username=shbaaaaz&label=Profile%20views&color=0e75b6&style=flat" alt="shbaaaaz" /> </div>
 
 ## About Me
-I'm a passionate Frontend Engineer with over 5 years of experience in web development. 
+I'm a passionate Frontend Engineer with over 6 years of experience in web development. 
 Originally from India, I have migrated to Germany to explore the vibrant tech landscape.
 
 Apart from coding, I find joy in teaching web development, sharing my learnings, and exploring new places.

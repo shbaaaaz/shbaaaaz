@@ -13,7 +13,7 @@ Apart from coding, I find joy in teaching web development, sharing my learnings,
 - **Backend**: Node.js, Express, Firebase
 - **Databases**: MongoDB, SQL Server, MySQL
 - **Version Control**: Git, GitHub
-- **CMS**: Wordpress, Contentful
+- **CMS**: Wordpress, Contentful, Hygraph
 
 ## What I Do
 - 🖥️ Building user-friendly and performant web applications.
